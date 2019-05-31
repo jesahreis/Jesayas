@@ -14,7 +14,7 @@ import java.io.InputStreamReader;
  * @author user
  */
 public class Trabalho {
-
+//teste enviar
    public synchronized static String execCommand(final String commandLine) throws IOException {
 
 		boolean success = false;
